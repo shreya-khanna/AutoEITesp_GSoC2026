@@ -10,7 +10,7 @@
 
 **Program dates:** Coding period May 25 – August 16, 2026
 
-**Repository:** [github.com/humanai-foundation/AutoEIT](https://github.com/humanai-foundation/AutoEIT)
+**Repository:** [github.com/humanai-foundation/AutoEIT](https://github.com/humanai-foundation/AutoEIT) — this project lives in [`AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk)
 
 ---
 
@@ -211,11 +211,11 @@ This repository (`github.com/humanai-foundation/AutoEIT`) *is* the deliverable �
 
 The commit history (`git log`) is a reasonably faithful session-by-session record of the project. A few entry points if you want to explore the code directly:
 
-- [`src/preprocessing/`](https://github.com/humanai-foundation/AutoEIT/tree/main/src/preprocessing) — VAD segmentation (`vad.py`, `segment.py`, `resegment_window.py`)
-- [`src/transcription/`](https://github.com/humanai-foundation/AutoEIT/tree/main/src/transcription) — one script per ASR model, all following the same `load_model()`/`transcribe_file()` shape
-- [`src/postprocessing/`](https://github.com/humanai-foundation/AutoEIT/tree/main/src/postprocessing) — WER/MER/CER scoring, human-rater merging, review exports
-- [`notebooks/`](https://github.com/humanai-foundation/AutoEIT/tree/main/notebooks) — one analysis notebook per finding, each independently re-runnable
-- [`docs/asr_model_comparison_analysis.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/docs/asr_model_comparison_analysis.md) — the full technical writeup
+- [`src/preprocessing/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/src/preprocessing) — VAD segmentation (`vad.py`, `segment.py`, `resegment_window.py`)
+- [`src/transcription/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/src/transcription) — one script per ASR model, all following the same `load_model()`/`transcribe_file()` shape
+- [`src/postprocessing/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/src/postprocessing) — WER/MER/CER scoring, human-rater merging, review exports
+- [`notebooks/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/notebooks) — one analysis notebook per finding, each independently re-runnable
+- [`docs/asr_model_comparison_analysis.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/asr_model_comparison_analysis.md) — the full technical writeup
 
 (Raw audio and segmented per-item audio clips are never committed — see `.gitignore`. Of the derived, non-audio artifacts, `data/model_review/` — per-recording, per-model transcription review exports — and a handful of small manifest files are tracked; the larger bulk exports (`data/human-transcriptions/`, `data/postprocessed/`, `data/transcribed/`) stay local-only to keep the repo's size manageable, and are fully reproducible from the raw audio via the pipeline in Appendix B of the analysis doc.)
 

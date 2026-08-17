@@ -179,12 +179,12 @@ not assumed to follow from it.
 ## Code and further reading
 
 - Code: [github.com/humanai-foundation/AutoEIT](https://github.com/humanai-foundation/AutoEIT)
-- Full GSoC final report: [`docs/GSOC_FINAL_REPORT.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/docs/GSOC_FINAL_REPORT.md)
+- Full GSoC final report: [`docs/GSOC_FINAL_REPORT.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/GSOC_FINAL_REPORT.md)
 - Detailed technical writeup (full ranking table, a section per model, every cross-cutting analysis):
-  [`docs/asr_model_comparison_analysis.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/docs/asr_model_comparison_analysis.md)
+  [`docs/asr_model_comparison_analysis.md`](https://github.com/humanai-foundation/AutoEIT/blob/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/asr_model_comparison_analysis.md)
 - Bugs found along the way, and a train/val/test-split methodology correction:
-  [Challenges and lessons learned](https://github.com/humanai-foundation/AutoEIT/blob/main/docs/GSOC_FINAL_REPORT.md#6-challenges-and-lessons-learned)
-- What's left to do: [`docs/GSOC_FINAL_REPORT.md` §4](https://github.com/humanai-foundation/AutoEIT/blob/main/docs/GSOC_FINAL_REPORT.md#4-whats-left-to-do)
+  [Challenges and lessons learned](https://github.com/humanai-foundation/AutoEIT/blob/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/GSOC_FINAL_REPORT.md#6-challenges-and-lessons-learned)
+- What's left to do: [`docs/GSOC_FINAL_REPORT.md` §4](https://github.com/humanai-foundation/AutoEIT/blob/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/GSOC_FINAL_REPORT.md#4-whats-left-to-do)
 
 ## Acknowledgments
 

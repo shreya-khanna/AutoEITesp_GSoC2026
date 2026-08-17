@@ -24,3 +24,8 @@ Commercial speech-to-text tools are trained on native or near-native speech and 
 Each project is self-contained in its own folder, with its own documentation, code, and dependencies. For details on either, see the linked folder above.
 
 Both projects were built as [Google Summer of Code](https://summerofcode.withgoogle.com/) contributions with [HumanAI](https://humanai.foundation/).
+
+## GSoC final reports
+
+- **Audio-to-text transcription:** [`GSOC_FINAL_REPORT.md`](AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/docs/GSOC_FINAL_REPORT.md) — goals, results, best models, and lessons learned.
+- **Automated scoring system:** final report forthcoming.

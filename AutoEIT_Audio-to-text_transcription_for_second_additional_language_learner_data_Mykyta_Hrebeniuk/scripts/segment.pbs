@@ -1,0 +1,26 @@
+#!/bin/bash
+#PBS -N autoeit_transcribe
+#PBS -j oe
+#####PBS -o /lstr/sahara/autoeit/<username>/data/logs/autoeit.out
+#PBS -l select=1:ncpus=4:mpiprocs=4:ngpus=1:mem=16gb
+#PBS -l walltime=01:00:00
+#PBS -m ae
+
+# Set data root
+export AUTOEIT_DATA_ROOT=/lstr/sahara/autoeit/$USER/data
+
+# Activate conda environment
+export PATH=$HOME/.conda/envs/autoeit/bin:$PATH
+
+# Move to project directory
+cd ~/AutoEIT
+
+echo "Job starting at: $(date) on $(hostname)"
+echo "Python: $(which python)"
+echo "Environment: $CONDA_DEFAULT_ENV"
+echo "Data root: $AUTOEIT_DATA_ROOT"
+
+# Run the pipeline
+python -m src.main --segment-all
+
+echo "Job completed at: $(date)"

@@ -1,0 +1,42 @@
+# Environment
+.env
+
+# vs-code
+.vscode/*
+
+# JetBrains IDEs
+.idea/
+
+# Data — audio is never committed (raw recordings + segmented per-item clips).
+# Of the derived artifacts, only data/model_review/ (per-recording, per-model
+# review exports) plus the small root-level manifest files are tracked; the
+# large bulk exports (human-transcriptions/, postprocessed/, transcribed/) stay
+# local-only to keep the repo's history size manageable.
+**/data/raw/
+**/data/segmented/
+**/data/v2
+**/data/version_a_recording.wav
+**/data/logs/
+**/data/human-transcriptions/
+**/data/postprocessed/
+**/data/transcribed/
+**/data/segmented_audio_files.zip
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+*.bin
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store

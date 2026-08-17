@@ -1,0 +1,21 @@
+#!/bin/bash
+#PBS -N autoeit_transcribe
+#PBS -j oe
+#PBS -o /lstr/sahara/autoeit/<username>/data/logs/transcribe.out
+#PBS -l select=1:ncpus=4:mpiprocs=4:ngpus=1:mem=32gb
+#PBS -l walltime=08:00:00
+#PBS -m ae
+#PBS -q qllm
+
+export AUTOEIT_DATA_ROOT=/lstr/sahara/autoeit/$USER/data
+export PATH=$HOME/.conda/envs/autoeit/bin:$PATH
+
+cd ~/AutoEIT
+
+echo "Job starting at: $(date) on $(hostname)"
+echo "Python: $(which python)"
+echo "Data root: $AUTOEIT_DATA_ROOT"
+
+python -m src.main --transcribe-all
+
+echo "Job completed at: $(date)"

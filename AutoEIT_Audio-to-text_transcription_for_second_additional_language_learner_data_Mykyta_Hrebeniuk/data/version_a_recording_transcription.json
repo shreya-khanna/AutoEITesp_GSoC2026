@@ -1,0 +1,3289 @@
+{
+  "file": "version_a_recording.wav",
+  "language": "en",
+  "language_probability": 0.9707,
+  "duration": 527.275,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": " Repetition Task",
+      "words": [
+        {
+          "word": " Repetition",
+          "start": 0.0,
+          "end": 0.82,
+          "prob": 0.8979
+        },
+        {
+          "word": " Task",
+          "start": 0.82,
+          "end": 1.1,
+          "prob": 0.6709
+        }
+      ]
+    },
+    {
+      "start": 2.5,
+      "end": 9.4,
+      "text": " For this task, you will be asked to first repeat some sentences in English and then some sentences in Spanish.",
+      "words": [
+        {
+          "word": " For",
+          "start": 2.5,
+          "end": 3.1,
+          "prob": 0.8371
+        },
+        {
+          "word": " this",
+          "start": 3.1,
+          "end": 3.34,
+          "prob": 0.9995
+        },
+        {
+          "word": " task,",
+          "start": 3.34,
+          "end": 3.78,
+          "prob": 0.998
+        },
+        {
+          "word": " you",
+          "start": 3.86,
+          "end": 4.18,
+          "prob": 0.999
+        },
+        {
+          "word": " will",
+          "start": 4.18,
+          "end": 4.36,
+          "prob": 0.9987
+        },
+        {
+          "word": " be",
+          "start": 4.36,
+          "end": 4.5,
+          "prob": 0.9998
+        },
+        {
+          "word": " asked",
+          "start": 4.5,
+          "end": 4.78,
+          "prob": 0.9993
+        },
+        {
+          "word": " to",
+          "start": 4.78,
+          "end": 4.98,
+          "prob": 0.9992
+        },
+        {
+          "word": " first",
+          "start": 4.98,
+          "end": 5.14,
+          "prob": 0.9973
+        },
+        {
+          "word": " repeat",
+          "start": 5.14,
+          "end": 5.48,
+          "prob": 0.9987
+        },
+        {
+          "word": " some",
+          "start": 5.48,
+          "end": 5.66,
+          "prob": 0.999
+        },
+        {
+          "word": " sentences",
+          "start": 5.66,
+          "end": 6.12,
+          "prob": 0.9992
+        },
+        {
+          "word": " in",
+          "start": 6.12,
+          "end": 6.58,
+          "prob": 0.9995
+        },
+        {
+          "word": " English",
+          "start": 6.58,
+          "end": 6.88,
+          "prob": 0.9989
+        },
+        {
+          "word": " and",
+          "start": 6.88,
+          "end": 7.74,
+          "prob": 0.5667
+        },
+        {
+          "word": " then",
+          "start": 7.74,
+          "end": 8.06,
+          "prob": 0.9991
+        },
+        {
+          "word": " some",
+          "start": 8.06,
+          "end": 8.26,
+          "prob": 0.9993
+        },
+        {
+          "word": " sentences",
+          "start": 8.26,
+          "end": 8.76,
+          "prob": 0.9983
+        },
+        {
+          "word": " in",
+          "start": 8.76,
+          "end": 9.06,
+          "prob": 0.9998
+        },
+        {
+          "word": " Spanish.",
+          "start": 9.06,
+          "end": 9.4,
+          "prob": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 9.92,
+      "end": 12.94,
+      "text": " Please pay careful attention to the instructions on the recording.",
+      "words": [
+        {
+          "word": " Please",
+          "start": 9.92,
+          "end": 10.52,
+          "prob": 0.9993
+        },
+        {
+          "word": " pay",
+          "start": 10.52,
+          "end": 10.76,
+          "prob": 0.9977
+        },
+        {
+          "word": " careful",
+          "start": 10.76,
+          "end": 11.14,
+          "prob": 0.9987
+        },
+        {
+          "word": " attention",
+          "start": 11.14,
+          "end": 11.5,
+          "prob": 0.9997
+        },
+        {
+          "word": " to",
+          "start": 11.5,
+          "end": 11.82,
+          "prob": 0.9998
+        },
+        {
+          "word": " the",
+          "start": 11.82,
+          "end": 11.88,
+          "prob": 0.9978
+        },
+        {
+          "word": " instructions",
+          "start": 11.88,
+          "end": 12.22,
+          "prob": 0.9995
+        },
+        {
+          "word": " on",
+          "start": 12.22,
+          "end": 12.5,
+          "prob": 0.9984
+        },
+        {
+          "word": " the",
+          "start": 12.5,
+          "end": 12.6,
+          "prob": 0.9995
+        },
+        {
+          "word": " recording.",
+          "start": 12.6,
+          "end": 12.94,
+          "prob": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 13.9,
+      "end": 16.48,
+      "text": " Please do not take any notes during this exercise.",
+      "words": [
+        {
+          "word": " Please",
+          "start": 13.9,
+          "end": 14.5,
+          "prob": 0.9996
+        },
+        {
+          "word": " do",
+          "start": 14.5,
+          "end": 14.68,
+          "prob": 0.9996
+        },
+        {
+          "word": " not",
+          "start": 14.68,
+          "end": 14.88,
+          "prob": 0.9998
+        },
+        {
+          "word": " take",
+          "start": 14.88,
+          "end": 15.1,
+          "prob": 0.9997
+        },
+        {
+          "word": " any",
+          "start": 15.1,
+          "end": 15.36,
+          "prob": 0.9993
+        },
+        {
+          "word": " notes",
+          "start": 15.36,
+          "end": 15.64,
+          "prob": 0.9993
+        },
+        {
+          "word": " during",
+          "start": 15.64,
+          "end": 15.94,
+          "prob": 0.9998
+        },
+        {
+          "word": " this",
+          "start": 15.94,
+          "end": 16.14,
+          "prob": 0.9998
+        },
+        {
+          "word": " exercise.",
+          "start": 16.14,
+          "end": 16.48,
+          "prob": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 18.46,
+      "end": 19.54,
+      "text": " Now let's begin.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 18.46,
+          "end": 19.06,
+          "prob": 0.9984
+        },
+        {
+          "word": " let's",
+          "start": 19.06,
+          "end": 19.36,
+          "prob": 0.9031
+        },
+        {
+          "word": " begin.",
+          "start": 19.36,
+          "end": 19.54,
+          "prob": 0.9997
+        }
+      ]
+    },
+    {
+      "start": 20.82,
+      "end": 23.38,
+      "text": " You are going to hear several sentences in English.",
+      "words": [
+        {
+          "word": " You",
+          "start": 20.82,
+          "end": 21.42,
+          "prob": 0.9992
+        },
+        {
+          "word": " are",
+          "start": 21.42,
+          "end": 21.5,
+          "prob": 0.4812
+        },
+        {
+          "word": " going",
+          "start": 21.5,
+          "end": 21.64,
+          "prob": 0.9999
+        },
+        {
+          "word": " to",
+          "start": 21.64,
+          "end": 21.76,
+          "prob": 0.9996
+        },
+        {
+          "word": " hear",
+          "start": 21.76,
+          "end": 21.92,
+          "prob": 0.9996
+        },
+        {
+          "word": " several",
+          "start": 21.92,
+          "end": 22.18,
+          "prob": 0.9996
+        },
+        {
+          "word": " sentences",
+          "start": 22.18,
+          "end": 22.6,
+          "prob": 0.9996
+        },
+        {
+          "word": " in",
+          "start": 22.6,
+          "end": 22.98,
+          "prob": 0.9998
+        },
+        {
+          "word": " English.",
+          "start": 22.98,
+          "end": 23.38,
+          "prob": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 24.18,
+      "end": 29.36,
+      "text": " After each sentence, there will be a short pause, followed by a tone sound.",
+      "words": [
+        {
+          "word": " After",
+          "start": 24.18,
+          "end": 24.7,
+          "prob": 0.5216
+        },
+        {
+          "word": " each",
+          "start": 24.7,
+          "end": 25.16,
+          "prob": 0.9946
+        },
+        {
+          "word": " sentence,",
+          "start": 25.16,
+          "end": 25.54,
+          "prob": 0.9961
+        },
+        {
+          "word": " there",
+          "start": 25.82,
+          "end": 26.38,
+          "prob": 0.9923
+        },
+        {
+          "word": " will",
+          "start": 26.38,
+          "end": 26.54,
+          "prob": 0.995
+        },
+        {
+          "word": " be",
+          "start": 26.54,
+          "end": 26.76,
+          "prob": 0.9939
+        },
+        {
+          "word": " a",
+          "start": 26.76,
+          "end": 26.84,
+          "prob": 0.9959
+        },
+        {
+          "word": " short",
+          "start": 26.84,
+          "end": 27.08,
+          "prob": 0.9962
+        },
+        {
+          "word": " pause,",
+          "start": 27.08,
+          "end": 27.44,
+          "prob": 0.9941
+        },
+        {
+          "word": " followed",
+          "start": 27.62,
+          "end": 28.48,
+          "prob": 0.9972
+        },
+        {
+          "word": " by",
+          "start": 28.48,
+          "end": 28.76,
+          "prob": 0.9985
+        },
+        {
+          "word": " a",
+          "start": 28.76,
+          "end": 28.92,
+          "prob": 0.9932
+        },
+        {
+          "word": " tone",
+          "start": 28.92,
+          "end": 29.1,
+          "prob": 0.9584
+        },
+        {
+          "word": " sound.",
+          "start": 29.1,
+          "end": 29.36,
+          "prob": 0.9908
+        }
+      ]
+    },
+    {
+      "start": 30.78,
+      "end": 34.14,
+      "text": " Your task is to try to repeat exactly what you hear in English.",
+      "words": [
+        {
+          "word": " Your",
+          "start": 30.78,
+          "end": 31.3,
+          "prob": 0.9672
+        },
+        {
+          "word": " task",
+          "start": 31.3,
+          "end": 31.6,
+          "prob": 0.9986
+        },
+        {
+          "word": " is",
+          "start": 31.6,
+          "end": 31.88,
+          "prob": 0.9972
+        },
+        {
+          "word": " to",
+          "start": 31.88,
+          "end": 31.98,
+          "prob": 0.9927
+        },
+        {
+          "word": " try",
+          "start": 31.98,
+          "end": 32.22,
+          "prob": 0.9906
+        },
+        {
+          "word": " to",
+          "start": 32.22,
+          "end": 32.36,
+          "prob": 0.9911
+        },
+        {
+          "word": " repeat",
+          "start": 32.36,
+          "end": 32.66,
+          "prob": 0.9988
+        },
+        {
+          "word": " exactly",
+          "start": 32.66,
+          "end": 32.94,
+          "prob": 0.9949
+        },
+        {
+          "word": " what",
+          "start": 32.94,
+          "end": 33.36,
+          "prob": 0.9976
+        },
+        {
+          "word": " you",
+          "start": 33.36,
+          "end": 33.52,
+          "prob": 0.9991
+        },
+        {
+          "word": " hear",
+          "start": 33.52,
+          "end": 33.74,
+          "prob": 0.9964
+        },
+        {
+          "word": " in",
+          "start": 33.74,
+          "end": 33.88,
+          "prob": 0.9979
+        },
+        {
+          "word": " English.",
+          "start": 33.88,
+          "end": 34.14,
+          "prob": 0.9864
+        }
+      ]
+    },
+    {
+      "start": 35.12,
+      "end": 38.6,
+      "text": " You will be given sufficient time after the tone to repeat the sentence.",
+      "words": [
+        {
+          "word": " You",
+          "start": 35.12,
+          "end": 35.64,
+          "prob": 0.9938
+        },
+        {
+          "word": " will",
+          "start": 35.64,
+          "end": 35.78,
+          "prob": 0.9952
+        },
+        {
+          "word": " be",
+          "start": 35.78,
+          "end": 35.96,
+          "prob": 0.9982
+        },
+        {
+          "word": " given",
+          "start": 35.96,
+          "end": 36.22,
+          "prob": 0.9989
+        },
+        {
+          "word": " sufficient",
+          "start": 36.22,
+          "end": 36.48,
+          "prob": 0.9919
+        },
+        {
+          "word": " time",
+          "start": 36.48,
+          "end": 36.92,
+          "prob": 0.9994
+        },
+        {
+          "word": " after",
+          "start": 36.92,
+          "end": 37.24,
+          "prob": 0.9951
+        },
+        {
+          "word": " the",
+          "start": 37.24,
+          "end": 37.4,
+          "prob": 0.9624
+        },
+        {
+          "word": " tone",
+          "start": 37.4,
+          "end": 37.64,
+          "prob": 0.9953
+        },
+        {
+          "word": " to",
+          "start": 37.64,
+          "end": 37.82,
+          "prob": 0.9944
+        },
+        {
+          "word": " repeat",
+          "start": 37.82,
+          "end": 38.12,
+          "prob": 0.9981
+        },
+        {
+          "word": " the",
+          "start": 38.12,
+          "end": 38.26,
+          "prob": 0.9841
+        },
+        {
+          "word": " sentence.",
+          "start": 38.26,
+          "end": 38.6,
+          "prob": 0.9981
+        }
+      ]
+    },
+    {
+      "start": 39.5,
+      "end": 41.06,
+      "text": " Repeat as much as you can.",
+      "words": [
+        {
+          "word": " Repeat",
+          "start": 39.5,
+          "end": 40.02,
+          "prob": 0.9926
+        },
+        {
+          "word": " as",
+          "start": 40.02,
+          "end": 40.26,
+          "prob": 0.9983
+        },
+        {
+          "word": " much",
+          "start": 40.26,
+          "end": 40.5,
+          "prob": 0.9993
+        },
+        {
+          "word": " as",
+          "start": 40.5,
+          "end": 40.68,
+          "prob": 0.9981
+        },
+        {
+          "word": " you",
+          "start": 40.68,
+          "end": 40.8,
+          "prob": 0.9993
+        },
+        {
+          "word": " can.",
+          "start": 40.8,
+          "end": 41.06,
+          "prob": 0.9996
+        }
+      ]
+    },
+    {
+      "start": 43.96,
+      "end": 47.84,
+      "text": " Remember, don't start repeating the sentence until you hear the tone sound.",
+      "words": [
+        {
+          "word": " Remember,",
+          "start": 43.96,
+          "end": 44.48,
+          "prob": 0.8443
+        },
+        {
+          "word": " don't",
+          "start": 44.48,
+          "end": 45.0,
+          "prob": 0.9857
+        },
+        {
+          "word": " start",
+          "start": 45.0,
+          "end": 45.16,
+          "prob": 0.9973
+        },
+        {
+          "word": " repeating",
+          "start": 45.16,
+          "end": 45.5,
+          "prob": 0.9979
+        },
+        {
+          "word": " the",
+          "start": 45.5,
+          "end": 45.7,
+          "prob": 0.998
+        },
+        {
+          "word": " sentence",
+          "start": 45.7,
+          "end": 46.0,
+          "prob": 0.9968
+        },
+        {
+          "word": " until",
+          "start": 46.0,
+          "end": 46.68,
+          "prob": 0.991
+        },
+        {
+          "word": " you",
+          "start": 46.68,
+          "end": 46.92,
+          "prob": 0.9987
+        },
+        {
+          "word": " hear",
+          "start": 46.92,
+          "end": 47.16,
+          "prob": 0.9972
+        },
+        {
+          "word": " the",
+          "start": 47.16,
+          "end": 47.34,
+          "prob": 0.9982
+        },
+        {
+          "word": " tone",
+          "start": 47.34,
+          "end": 47.58,
+          "prob": 0.9969
+        },
+        {
+          "word": " sound.",
+          "start": 47.58,
+          "end": 47.84,
+          "prob": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 48.94,
+      "end": 49.9,
+      "text": " Now let's begin.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 48.94,
+          "end": 49.46,
+          "prob": 0.9961
+        },
+        {
+          "word": " let's",
+          "start": 49.46,
+          "end": 49.72,
+          "prob": 0.8862
+        },
+        {
+          "word": " begin.",
+          "start": 49.72,
+          "end": 49.9,
+          "prob": 0.9949
+        }
+      ]
+    },
+    {
+      "start": 49.9,
+      "end": 52.88,
+      "text": " We drove to the park.",
+      "words": [
+        {
+          "word": " We",
+          "start": 49.9,
+          "end": 50.76,
+          "prob": 0.5266
+        },
+        {
+          "word": " drove",
+          "start": 50.76,
+          "end": 52.18,
+          "prob": 0.9812
+        },
+        {
+          "word": " to",
+          "start": 52.18,
+          "end": 52.42,
+          "prob": 0.9979
+        },
+        {
+          "word": " the",
+          "start": 52.42,
+          "end": 52.52,
+          "prob": 0.9962
+        },
+        {
+          "word": " park.",
+          "start": 52.52,
+          "end": 52.88,
+          "prob": 0.9892
+        }
+      ]
+    },
+    {
+      "start": 58.52,
+      "end": 60.04,
+      "text": " I'll call her tomorrow night.",
+      "words": [
+        {
+          "word": " I'll",
+          "start": 58.52,
+          "end": 59.08,
+          "prob": 0.9695
+        },
+        {
+          "word": " call",
+          "start": 59.08,
+          "end": 59.3,
+          "prob": 0.9921
+        },
+        {
+          "word": " her",
+          "start": 59.3,
+          "end": 59.44,
+          "prob": 0.9898
+        },
+        {
+          "word": " tomorrow",
+          "start": 59.44,
+          "end": 59.68,
+          "prob": 0.9922
+        },
+        {
+          "word": " night.",
+          "start": 59.68,
+          "end": 60.04,
+          "prob": 0.9969
+        }
+      ]
+    },
+    {
+      "start": 65.76,
+      "end": 67.84,
+      "text": " You can buy meat at the butcher shop.",
+      "words": [
+        {
+          "word": " You",
+          "start": 65.76,
+          "end": 66.32,
+          "prob": 0.9871
+        },
+        {
+          "word": " can",
+          "start": 66.32,
+          "end": 66.46,
+          "prob": 0.9987
+        },
+        {
+          "word": " buy",
+          "start": 66.46,
+          "end": 66.68,
+          "prob": 0.9983
+        },
+        {
+          "word": " meat",
+          "start": 66.68,
+          "end": 66.96,
+          "prob": 0.9783
+        },
+        {
+          "word": " at",
+          "start": 66.96,
+          "end": 67.14,
+          "prob": 0.9951
+        },
+        {
+          "word": " the",
+          "start": 67.14,
+          "end": 67.26,
+          "prob": 0.9701
+        },
+        {
+          "word": " butcher",
+          "start": 67.26,
+          "end": 67.52,
+          "prob": 0.9722
+        },
+        {
+          "word": " shop.",
+          "start": 67.52,
+          "end": 67.84,
+          "prob": 0.9072
+        }
+      ]
+    },
+    {
+      "start": 73.72,
+      "end": 76.36,
+      "text": " My brother just bought a brand new computer.",
+      "words": [
+        {
+          "word": " My",
+          "start": 73.72,
+          "end": 74.28,
+          "prob": 0.9157
+        },
+        {
+          "word": " brother",
+          "start": 74.28,
+          "end": 74.76,
+          "prob": 0.9842
+        },
+        {
+          "word": " just",
+          "start": 74.76,
+          "end": 75.06,
+          "prob": 0.988
+        },
+        {
+          "word": " bought",
+          "start": 75.06,
+          "end": 75.34,
+          "prob": 0.9908
+        },
+        {
+          "word": " a",
+          "start": 75.34,
+          "end": 75.5,
+          "prob": 0.9979
+        },
+        {
+          "word": " brand",
+          "start": 75.5,
+          "end": 75.68,
+          "prob": 0.9801
+        },
+        {
+          "word": " new",
+          "start": 75.68,
+          "end": 75.88,
+          "prob": 0.8412
+        },
+        {
+          "word": " computer.",
+          "start": 75.88,
+          "end": 76.36,
+          "prob": 0.9955
+        }
+      ]
+    },
+    {
+      "start": 84.16,
+      "end": 86.5,
+      "text": " Sometimes they take their dog for a walk in the park.",
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 83.9,
+          "end": 84.18,
+          "prob": 0.9894
+        },
+        {
+          "word": " they",
+          "start": 84.18,
+          "end": 84.58,
+          "prob": 0.9326
+        },
+        {
+          "word": " take",
+          "start": 84.58,
+          "end": 84.84,
+          "prob": 0.9949
+        },
+        {
+          "word": " their",
+          "start": 84.84,
+          "end": 85.06,
+          "prob": 0.9964
+        },
+        {
+          "word": " dog",
+          "start": 85.06,
+          "end": 85.3,
+          "prob": 0.9948
+        },
+        {
+          "word": " for",
+          "start": 85.3,
+          "end": 85.64,
+          "prob": 0.9965
+        },
+        {
+          "word": " a",
+          "start": 85.64,
+          "end": 85.76,
+          "prob": 0.9977
+        },
+        {
+          "word": " walk",
+          "start": 85.76,
+          "end": 85.98,
+          "prob": 0.9995
+        },
+        {
+          "word": " in",
+          "start": 85.98,
+          "end": 86.14,
+          "prob": 0.9975
+        },
+        {
+          "word": " the",
+          "start": 86.14,
+          "end": 86.2,
+          "prob": 0.9984
+        },
+        {
+          "word": " park.",
+          "start": 86.2,
+          "end": 86.5,
+          "prob": 0.9976
+        }
+      ]
+    },
+    {
+      "start": 94.14,
+      "end": 97.54,
+      "text": " We are going to play volleyball at the gym that I told you about.",
+      "words": [
+        {
+          "word": " We",
+          "start": 94.14,
+          "end": 94.66,
+          "prob": 0.8212
+        },
+        {
+          "word": " are",
+          "start": 94.66,
+          "end": 95.04,
+          "prob": 0.1571
+        },
+        {
+          "word": " going",
+          "start": 95.04,
+          "end": 95.14,
+          "prob": 0.9964
+        },
+        {
+          "word": " to",
+          "start": 95.14,
+          "end": 95.32,
+          "prob": 0.9985
+        },
+        {
+          "word": " play",
+          "start": 95.32,
+          "end": 95.54,
+          "prob": 0.9954
+        },
+        {
+          "word": " volleyball",
+          "start": 95.54,
+          "end": 95.94,
+          "prob": 0.9245
+        },
+        {
+          "word": " at",
+          "start": 95.94,
+          "end": 96.2,
+          "prob": 0.9869
+        },
+        {
+          "word": " the",
+          "start": 96.2,
+          "end": 96.32,
+          "prob": 0.9957
+        },
+        {
+          "word": " gym",
+          "start": 96.32,
+          "end": 96.58,
+          "prob": 0.9917
+        },
+        {
+          "word": " that",
+          "start": 96.58,
+          "end": 96.76,
+          "prob": 0.9635
+        },
+        {
+          "word": " I",
+          "start": 96.76,
+          "end": 96.86,
+          "prob": 0.9878
+        },
+        {
+          "word": " told",
+          "start": 96.86,
+          "end": 97.12,
+          "prob": 0.9886
+        },
+        {
+          "word": " you",
+          "start": 97.12,
+          "end": 97.3,
+          "prob": 0.9967
+        },
+        {
+          "word": " about.",
+          "start": 97.3,
+          "end": 97.54,
+          "prob": 0.9982
+        }
+      ]
+    },
+    {
+      "start": 109.36,
+      "end": 111.16,
+      "text": " That was the last English sentence.",
+      "words": [
+        {
+          "word": " That",
+          "start": 109.36,
+          "end": 109.88,
+          "prob": 0.9754
+        },
+        {
+          "word": " was",
+          "start": 109.88,
+          "end": 110.16,
+          "prob": 0.9987
+        },
+        {
+          "word": " the",
+          "start": 110.16,
+          "end": 110.28,
+          "prob": 0.9956
+        },
+        {
+          "word": " last",
+          "start": 110.28,
+          "end": 110.48,
+          "prob": 0.9965
+        },
+        {
+          "word": " English",
+          "start": 110.48,
+          "end": 110.76,
+          "prob": 0.9596
+        },
+        {
+          "word": " sentence.",
+          "start": 110.76,
+          "end": 111.16,
+          "prob": 0.9931
+        }
+      ]
+    },
+    {
+      "start": 111.16,
+      "end": 115.16,
+      "text": " Now, you're going to hear a number of sentences in Spanish.",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 111.16,
+          "end": 112.16,
+          "prob": 0.6841
+        },
+        {
+          "word": " you're",
+          "start": 112.38,
+          "end": 113.0,
+          "prob": 0.808
+        },
+        {
+          "word": " going",
+          "start": 113.0,
+          "end": 113.2,
+          "prob": 0.9972
+        },
+        {
+          "word": " to",
+          "start": 113.2,
+          "end": 113.32,
+          "prob": 0.9959
+        },
+        {
+          "word": " hear",
+          "start": 113.32,
+          "end": 113.52,
+          "prob": 0.9942
+        },
+        {
+          "word": " a",
+          "start": 113.52,
+          "end": 113.6,
+          "prob": 0.9845
+        },
+        {
+          "word": " number",
+          "start": 113.6,
+          "end": 113.78,
+          "prob": 0.9988
+        },
+        {
+          "word": " of",
+          "start": 113.78,
+          "end": 113.98,
+          "prob": 0.997
+        },
+        {
+          "word": " sentences",
+          "start": 113.98,
+          "end": 114.36,
+          "prob": 0.9908
+        },
+        {
+          "word": " in",
+          "start": 114.36,
+          "end": 114.82,
+          "prob": 0.9958
+        },
+        {
+          "word": " Spanish.",
+          "start": 114.82,
+          "end": 115.16,
+          "prob": 0.986
+        }
+      ]
+    },
+    {
+      "start": 116.3,
+      "end": 122.44,
+      "text": " Once again, after each sentence, there will be a short pause, followed by a tone sound.",
+      "words": [
+        {
+          "word": " Once",
+          "start": 116.3,
+          "end": 116.82,
+          "prob": 0.9917
+        },
+        {
+          "word": " again,",
+          "start": 116.82,
+          "end": 117.04,
+          "prob": 0.9986
+        },
+        {
+          "word": " after",
+          "start": 117.22,
+          "end": 117.7,
+          "prob": 0.997
+        },
+        {
+          "word": " each",
+          "start": 117.7,
+          "end": 118.06,
+          "prob": 0.9985
+        },
+        {
+          "word": " sentence,",
+          "start": 118.06,
+          "end": 118.48,
+          "prob": 0.9965
+        },
+        {
+          "word": " there",
+          "start": 118.72,
+          "end": 119.34,
+          "prob": 0.9951
+        },
+        {
+          "word": " will",
+          "start": 119.34,
+          "end": 119.52,
+          "prob": 0.995
+        },
+        {
+          "word": " be",
+          "start": 119.52,
+          "end": 119.7,
+          "prob": 0.9937
+        },
+        {
+          "word": " a",
+          "start": 119.7,
+          "end": 119.82,
+          "prob": 0.996
+        },
+        {
+          "word": " short",
+          "start": 119.82,
+          "end": 120.04,
+          "prob": 0.9969
+        },
+        {
+          "word": " pause,",
+          "start": 120.04,
+          "end": 120.38,
+          "prob": 0.9957
+        },
+        {
+          "word": " followed",
+          "start": 120.54,
+          "end": 121.36,
+          "prob": 0.9971
+        },
+        {
+          "word": " by",
+          "start": 121.36,
+          "end": 121.78,
+          "prob": 0.9976
+        },
+        {
+          "word": " a",
+          "start": 121.78,
+          "end": 121.96,
+          "prob": 0.9922
+        },
+        {
+          "word": " tone",
+          "start": 121.96,
+          "end": 122.18,
+          "prob": 0.937
+        },
+        {
+          "word": " sound.",
+          "start": 122.18,
+          "end": 122.44,
+          "prob": 0.992
+        }
+      ]
+    },
+    {
+      "start": 123.62,
+      "end": 127.26,
+      "text": " Your task is to try to repeat exactly what you hear in Spanish.",
+      "words": [
+        {
+          "word": " Your",
+          "start": 123.62,
+          "end": 124.14,
+          "prob": 0.969
+        },
+        {
+          "word": " task",
+          "start": 124.14,
+          "end": 124.42,
+          "prob": 0.9989
+        },
+        {
+          "word": " is",
+          "start": 124.42,
+          "end": 124.66,
+          "prob": 0.9964
+        },
+        {
+          "word": " to",
+          "start": 124.66,
+          "end": 124.76,
+          "prob": 0.9908
+        },
+        {
+          "word": " try",
+          "start": 124.76,
+          "end": 125.04,
+          "prob": 0.9905
+        },
+        {
+          "word": " to",
+          "start": 125.04,
+          "end": 125.18,
+          "prob": 0.987
+        },
+        {
+          "word": " repeat",
+          "start": 125.18,
+          "end": 125.48,
+          "prob": 0.9987
+        },
+        {
+          "word": " exactly",
+          "start": 125.48,
+          "end": 125.78,
+          "prob": 0.9949
+        },
+        {
+          "word": " what",
+          "start": 125.78,
+          "end": 126.24,
+          "prob": 0.9972
+        },
+        {
+          "word": " you",
+          "start": 126.24,
+          "end": 126.44,
+          "prob": 0.999
+        },
+        {
+          "word": " hear",
+          "start": 126.44,
+          "end": 126.66,
+          "prob": 0.9922
+        },
+        {
+          "word": " in",
+          "start": 126.66,
+          "end": 126.88,
+          "prob": 0.9959
+        },
+        {
+          "word": " Spanish.",
+          "start": 126.88,
+          "end": 127.26,
+          "prob": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 127.92,
+      "end": 132.02,
+      "text": " You will be given sufficient time after the tone to repeat the sentence.",
+      "words": [
+        {
+          "word": " You",
+          "start": 127.92,
+          "end": 128.44,
+          "prob": 0.9919
+        },
+        {
+          "word": " will",
+          "start": 128.44,
+          "end": 128.58,
+          "prob": 0.9888
+        },
+        {
+          "word": " be",
+          "start": 128.58,
+          "end": 128.76,
+          "prob": 0.9975
+        },
+        {
+          "word": " given",
+          "start": 128.76,
+          "end": 129.04,
+          "prob": 0.9981
+        },
+        {
+          "word": " sufficient",
+          "start": 129.04,
+          "end": 129.34,
+          "prob": 0.9928
+        },
+        {
+          "word": " time",
+          "start": 129.34,
+          "end": 129.78,
+          "prob": 0.999
+        },
+        {
+          "word": " after",
+          "start": 129.78,
+          "end": 130.18,
+          "prob": 0.9851
+        },
+        {
+          "word": " the",
+          "start": 130.18,
+          "end": 130.44,
+          "prob": 0.9864
+        },
+        {
+          "word": " tone",
+          "start": 130.44,
+          "end": 130.7,
+          "prob": 0.9957
+        },
+        {
+          "word": " to",
+          "start": 130.7,
+          "end": 131.08,
+          "prob": 0.9596
+        },
+        {
+          "word": " repeat",
+          "start": 131.08,
+          "end": 131.48,
+          "prob": 0.9979
+        },
+        {
+          "word": " the",
+          "start": 131.48,
+          "end": 131.64,
+          "prob": 0.9967
+        },
+        {
+          "word": " sentence.",
+          "start": 131.64,
+          "end": 132.02,
+          "prob": 0.9971
+        }
+      ]
+    },
+    {
+      "start": 132.96,
+      "end": 134.44,
+      "text": " Repeat as much as you can.",
+      "words": [
+        {
+          "word": " Repeat",
+          "start": 132.96,
+          "end": 133.48,
+          "prob": 0.9941
+        },
+        {
+          "word": " as",
+          "start": 133.48,
+          "end": 133.7,
+          "prob": 0.9979
+        },
+        {
+          "word": " much",
+          "start": 133.7,
+          "end": 133.92,
+          "prob": 0.9993
+        },
+        {
+          "word": " as",
+          "start": 133.92,
+          "end": 134.08,
+          "prob": 0.9978
+        },
+        {
+          "word": " you",
+          "start": 134.08,
+          "end": 134.2,
+          "prob": 0.9992
+        },
+        {
+          "word": " can.",
+          "start": 134.2,
+          "end": 134.44,
+          "prob": 0.9996
+        }
+      ]
+    },
+    {
+      "start": 135.86,
+      "end": 139.52,
+      "text": " Remember, don't start repeating the sentence until you hear the tone sound.",
+      "words": [
+        {
+          "word": " Remember,",
+          "start": 135.86,
+          "end": 136.38,
+          "prob": 0.8168
+        },
+        {
+          "word": " don't",
+          "start": 136.38,
+          "end": 136.9,
+          "prob": 0.9969
+        },
+        {
+          "word": " start",
+          "start": 136.9,
+          "end": 137.06,
+          "prob": 0.9969
+        },
+        {
+          "word": " repeating",
+          "start": 137.06,
+          "end": 137.42,
+          "prob": 0.9973
+        },
+        {
+          "word": " the",
+          "start": 137.42,
+          "end": 137.64,
+          "prob": 0.997
+        },
+        {
+          "word": " sentence",
+          "start": 137.64,
+          "end": 137.92,
+          "prob": 0.9952
+        },
+        {
+          "word": " until",
+          "start": 137.92,
+          "end": 138.42,
+          "prob": 0.9926
+        },
+        {
+          "word": " you",
+          "start": 138.42,
+          "end": 138.64,
+          "prob": 0.9989
+        },
+        {
+          "word": " hear",
+          "start": 138.64,
+          "end": 138.86,
+          "prob": 0.9974
+        },
+        {
+          "word": " the",
+          "start": 138.86,
+          "end": 139.02,
+          "prob": 0.9975
+        },
+        {
+          "word": " tone",
+          "start": 139.02,
+          "end": 139.22,
+          "prob": 0.9945
+        },
+        {
+          "word": " sound.",
+          "start": 139.22,
+          "end": 139.52,
+          "prob": 0.9971
+        }
+      ]
+    },
+    {
+      "start": 139.52,
+      "end": 141.48,
+      "text": " Now let's begin.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 139.52,
+          "end": 140.86,
+          "prob": 0.8242
+        },
+        {
+          "word": " let's",
+          "start": 140.86,
+          "end": 141.28,
+          "prob": 0.9121
+        },
+        {
+          "word": " begin.",
+          "start": 141.28,
+          "end": 141.48,
+          "prob": 0.9935
+        }
+      ]
+    },
+    {
+      "start": 174.12,
+      "end": 176.08,
+      "text": " ¿Qué dice usted que va a hacer hoy?",
+      "words": [
+        {
+          "word": " ¿Qué",
+          "start": 174.12,
+          "end": 174.68,
+          "prob": 0.734
+        },
+        {
+          "word": " dice",
+          "start": 174.68,
+          "end": 174.88,
+          "prob": 0.9864
+        },
+        {
+          "word": " usted",
+          "start": 174.88,
+          "end": 175.18,
+          "prob": 0.9972
+        },
+        {
+          "word": " que",
+          "start": 175.18,
+          "end": 175.48,
+          "prob": 0.978
+        },
+        {
+          "word": " va",
+          "start": 175.48,
+          "end": 175.62,
+          "prob": 0.9973
+        },
+        {
+          "word": " a",
+          "start": 175.62,
+          "end": 175.7,
+          "prob": 0.9792
+        },
+        {
+          "word": " hacer",
+          "start": 175.7,
+          "end": 175.86,
+          "prob": 0.9869
+        },
+        {
+          "word": " hoy?",
+          "start": 175.86,
+          "end": 176.08,
+          "prob": 0.9991
+        }
+      ]
+    },
+    {
+      "start": 183.12,
+      "end": 185.06,
+      "text": " Dudo que sepa manejar muy bien.",
+      "words": [
+        {
+          "word": " Dudo",
+          "start": 183.12,
+          "end": 183.68,
+          "prob": 0.9456
+        },
+        {
+          "word": " que",
+          "start": 183.68,
+          "end": 183.84,
+          "prob": 0.9987
+        },
+        {
+          "word": " sepa",
+          "start": 183.84,
+          "end": 184.18,
+          "prob": 0.9986
+        },
+        {
+          "word": " manejar",
+          "start": 184.18,
+          "end": 184.58,
+          "prob": 0.9998
+        },
+        {
+          "word": " muy",
+          "start": 184.58,
+          "end": 184.78,
+          "prob": 0.9993
+        },
+        {
+          "word": " bien.",
+          "start": 184.78,
+          "end": 185.06,
+          "prob": 0.9996
+        }
+      ]
+    },
+    {
+      "start": 192.32,
+      "end": 195.08,
+      "text": " Las calles de esta ciudad son muy anchas.",
+      "words": [
+        {
+          "word": " Las",
+          "start": 192.32,
+          "end": 192.88,
+          "prob": 0.9849
+        },
+        {
+          "word": " calles",
+          "start": 192.88,
+          "end": 193.44,
+          "prob": 0.9992
+        },
+        {
+          "word": " de",
+          "start": 193.44,
+          "end": 193.52,
+          "prob": 0.9993
+        },
+        {
+          "word": " esta",
+          "start": 193.52,
+          "end": 193.7,
+          "prob": 0.9971
+        },
+        {
+          "word": " ciudad",
+          "start": 193.7,
+          "end": 194.08,
+          "prob": 0.9989
+        },
+        {
+          "word": " son",
+          "start": 194.08,
+          "end": 194.32,
+          "prob": 0.9984
+        },
+        {
+          "word": " muy",
+          "start": 194.32,
+          "end": 194.54,
+          "prob": 0.9995
+        },
+        {
+          "word": " anchas.",
+          "start": 194.54,
+          "end": 195.08,
+          "prob": 0.9986
+        }
+      ]
+    },
+    {
+      "start": 203.78,
+      "end": 206.18,
+      "text": " Puede que llueva mañana todo el día.",
+      "words": [
+        {
+          "word": " Puede",
+          "start": 203.78,
+          "end": 204.44,
+          "prob": 0.9213
+        },
+        {
+          "word": " que",
+          "start": 204.44,
+          "end": 204.58,
+          "prob": 0.9978
+        },
+        {
+          "word": " llueva",
+          "start": 204.58,
+          "end": 204.92,
+          "prob": 0.9989
+        },
+        {
+          "word": " mañana",
+          "start": 204.92,
+          "end": 205.22,
+          "prob": 0.9914
+        },
+        {
+          "word": " todo",
+          "start": 205.22,
+          "end": 205.7,
+          "prob": 0.9929
+        },
+        {
+          "word": " el",
+          "start": 205.7,
+          "end": 205.92,
+          "prob": 0.9989
+        },
+        {
+          "word": " día.",
+          "start": 205.92,
+          "end": 206.18,
+          "prob": 0.9821
+        }
+      ]
+    },
+    {
+      "start": 214.6,
+      "end": 217.64,
+      "text": " Las casas son muy bonitas pero caras.",
+      "words": [
+        {
+          "word": " Las",
+          "start": 214.6,
+          "end": 215.26,
+          "prob": 0.9791
+        },
+        {
+          "word": " casas",
+          "start": 215.26,
+          "end": 215.8,
+          "prob": 0.997
+        },
+        {
+          "word": " son",
+          "start": 215.8,
+          "end": 216.0,
+          "prob": 0.9982
+        },
+        {
+          "word": " muy",
+          "start": 216.0,
+          "end": 216.22,
+          "prob": 0.9991
+        },
+        {
+          "word": " bonitas",
+          "start": 216.22,
+          "end": 216.72,
+          "prob": 0.9988
+        },
+        {
+          "word": " pero",
+          "start": 216.72,
+          "end": 217.04,
+          "prob": 0.6633
+        },
+        {
+          "word": " caras.",
+          "start": 217.04,
+          "end": 217.64,
+          "prob": 0.9995
+        }
+      ]
+    },
+    {
+      "start": 226.62,
+      "end": 229.28,
+      "text": " Me gustan las películas que acaban bien.",
+      "words": [
+        {
+          "word": " Me",
+          "start": 226.62,
+          "end": 227.28,
+          "prob": 0.9786
+        },
+        {
+          "word": " gustan",
+          "start": 227.28,
+          "end": 227.76,
+          "prob": 0.9994
+        },
+        {
+          "word": " las",
+          "start": 227.76,
+          "end": 227.86,
+          "prob": 0.9992
+        },
+        {
+          "word": " películas",
+          "start": 227.86,
+          "end": 228.52,
+          "prob": 0.9947
+        },
+        {
+          "word": " que",
+          "start": 228.52,
+          "end": 228.7,
+          "prob": 0.9975
+        },
+        {
+          "word": " acaban",
+          "start": 228.7,
+          "end": 229.04,
+          "prob": 0.9996
+        },
+        {
+          "word": " bien.",
+          "start": 229.04,
+          "end": 229.28,
+          "prob": 0.9997
+        }
+      ]
+    },
+    {
+      "start": 238.3,
+      "end": 241.24,
+      "text": " El chico con el que yo salgo es español.",
+      "words": [
+        {
+          "word": " El",
+          "start": 238.3,
+          "end": 238.98,
+          "prob": 0.5158
+        },
+        {
+          "word": " chico",
+          "start": 238.98,
+          "end": 239.42,
+          "prob": 0.9788
+        },
+        {
+          "word": " con",
+          "start": 239.42,
+          "end": 239.6,
+          "prob": 0.9955
+        },
+        {
+          "word": " el",
+          "start": 239.6,
+          "end": 239.76,
+          "prob": 0.9933
+        },
+        {
+          "word": " que",
+          "start": 239.76,
+          "end": 239.9,
+          "prob": 0.9963
+        },
+        {
+          "word": " yo",
+          "start": 239.9,
+          "end": 240.06,
+          "prob": 0.9934
+        },
+        {
+          "word": " salgo",
+          "start": 240.06,
+          "end": 240.48,
+          "prob": 0.9981
+        },
+        {
+          "word": " es",
+          "start": 240.48,
+          "end": 240.82,
+          "prob": 0.9807
+        },
+        {
+          "word": " español.",
+          "start": 240.82,
+          "end": 241.24,
+          "prob": 0.9596
+        }
+      ]
+    },
+    {
+      "start": 250.2,
+      "end": 253.34,
+      "text": " Después de cenar, me fui a dormir tranquilo.",
+      "words": [
+        {
+          "word": " Después",
+          "start": 250.2,
+          "end": 250.88,
+          "prob": 0.9695
+        },
+        {
+          "word": " de",
+          "start": 250.88,
+          "end": 251.22,
+          "prob": 0.9989
+        },
+        {
+          "word": " cenar,",
+          "start": 251.22,
+          "end": 251.74,
+          "prob": 0.9993
+        },
+        {
+          "word": " me",
+          "start": 251.74,
+          "end": 252.0,
+          "prob": 0.999
+        },
+        {
+          "word": " fui",
+          "start": 252.0,
+          "end": 252.24,
+          "prob": 0.9976
+        },
+        {
+          "word": " a",
+          "start": 252.24,
+          "end": 252.4,
+          "prob": 0.9994
+        },
+        {
+          "word": " dormir",
+          "start": 252.4,
+          "end": 252.68,
+          "prob": 0.9991
+        },
+        {
+          "word": " tranquilo.",
+          "start": 252.68,
+          "end": 253.34,
+          "prob": 0.9971
+        }
+      ]
+    },
+    {
+      "start": 262.34,
+      "end": 265.46,
+      "text": " I want a house where my animals can live.",
+      "words": [
+        {
+          "word": " I",
+          "start": 262.34,
+          "end": 263.08,
+          "prob": 0.4356
+        },
+        {
+          "word": " want",
+          "start": 263.08,
+          "end": 263.22,
+          "prob": 0.9633
+        },
+        {
+          "word": " a",
+          "start": 263.22,
+          "end": 263.38,
+          "prob": 0.9316
+        },
+        {
+          "word": " house",
+          "start": 263.38,
+          "end": 263.72,
+          "prob": 0.8589
+        },
+        {
+          "word": " where",
+          "start": 263.72,
+          "end": 264.14,
+          "prob": 0.7863
+        },
+        {
+          "word": " my",
+          "start": 264.14,
+          "end": 264.54,
+          "prob": 0.925
+        },
+        {
+          "word": " animals",
+          "start": 264.54,
+          "end": 265.2,
+          "prob": 0.9297
+        },
+        {
+          "word": " can",
+          "start": 265.2,
+          "end": 265.46,
+          "prob": 0.3931
+        },
+        {
+          "word": " live.",
+          "start": 265.46,
+          "end": 265.46,
+          "prob": 0.9875
+        }
+      ]
+    },
+    {
+      "start": 275.68,
+      "end": 278.52,
+      "text": " We are fascinated by the great parties.",
+      "words": [
+        {
+          "word": " We",
+          "start": 275.68,
+          "end": 276.42,
+          "prob": 0.7487
+        },
+        {
+          "word": " are",
+          "start": 276.42,
+          "end": 277.08,
+          "prob": 0.5316
+        },
+        {
+          "word": " fascinated",
+          "start": 277.08,
+          "end": 277.3,
+          "prob": 0.9535
+        },
+        {
+          "word": " by",
+          "start": 277.3,
+          "end": 277.56,
+          "prob": 0.8604
+        },
+        {
+          "word": " the",
+          "start": 277.56,
+          "end": 277.62,
+          "prob": 0.2384
+        },
+        {
+          "word": " great",
+          "start": 277.62,
+          "end": 277.86,
+          "prob": 0.3768
+        },
+        {
+          "word": " parties.",
+          "start": 277.86,
+          "end": 278.52,
+          "prob": 0.4426
+        }
+      ]
+    },
+    {
+      "start": 289.52,
+      "end": 292.08,
+      "text": " Ella solo bebe cerveza y no come nada.",
+      "words": [
+        {
+          "word": " Ella",
+          "start": 289.52,
+          "end": 289.9,
+          "prob": 0.5551
+        },
+        {
+          "word": " solo",
+          "start": 289.9,
+          "end": 290.18,
+          "prob": 0.8707
+        },
+        {
+          "word": " bebe",
+          "start": 290.18,
+          "end": 290.5,
+          "prob": 0.9794
+        },
+        {
+          "word": " cerveza",
+          "start": 290.5,
+          "end": 291.14,
+          "prob": 0.9819
+        },
+        {
+          "word": " y",
+          "start": 291.14,
+          "end": 291.36,
+          "prob": 0.9582
+        },
+        {
+          "word": " no",
+          "start": 291.36,
+          "end": 291.56,
+          "prob": 0.9985
+        },
+        {
+          "word": " come",
+          "start": 291.56,
+          "end": 291.82,
+          "prob": 0.9956
+        },
+        {
+          "word": " nada.",
+          "start": 291.82,
+          "end": 292.08,
+          "prob": 0.9956
+        }
+      ]
+    },
+    {
+      "start": 302.98,
+      "end": 306.0,
+      "text": " Me gustaría que el precio de las casas bajara.",
+      "words": [
+        {
+          "word": " Me",
+          "start": 302.98,
+          "end": 303.54,
+          "prob": 0.9056
+        },
+        {
+          "word": " gustaría",
+          "start": 303.54,
+          "end": 303.96,
+          "prob": 0.8855
+        },
+        {
+          "word": " que",
+          "start": 303.96,
+          "end": 304.32,
+          "prob": 0.9984
+        },
+        {
+          "word": " el",
+          "start": 304.32,
+          "end": 304.46,
+          "prob": 0.9963
+        },
+        {
+          "word": " precio",
+          "start": 304.46,
+          "end": 304.72,
+          "prob": 0.9981
+        },
+        {
+          "word": " de",
+          "start": 304.72,
+          "end": 304.92,
+          "prob": 0.992
+        },
+        {
+          "word": " las",
+          "start": 304.92,
+          "end": 305.06,
+          "prob": 0.9954
+        },
+        {
+          "word": " casas",
+          "start": 305.06,
+          "end": 305.5,
+          "prob": 0.9955
+        },
+        {
+          "word": " bajara.",
+          "start": 305.5,
+          "end": 306.0,
+          "prob": 0.9917
+        }
+      ]
+    },
+    {
+      "start": 316.86,
+      "end": 320.34,
+      "text": " Cruza a la derecha y después sigue todo recto.",
+      "words": [
+        {
+          "word": " Cruza",
+          "start": 316.86,
+          "end": 317.64,
+          "prob": 0.7892
+        },
+        {
+          "word": " a",
+          "start": 317.64,
+          "end": 317.76,
+          "prob": 0.9393
+        },
+        {
+          "word": " la",
+          "start": 317.76,
+          "end": 317.84,
+          "prob": 0.9835
+        },
+        {
+          "word": " derecha",
+          "start": 317.84,
+          "end": 318.34,
+          "prob": 0.9966
+        },
+        {
+          "word": " y",
+          "start": 318.34,
+          "end": 318.64,
+          "prob": 0.9386
+        },
+        {
+          "word": " después",
+          "start": 318.64,
+          "end": 319.0,
+          "prob": 0.8799
+        },
+        {
+          "word": " sigue",
+          "start": 319.0,
+          "end": 319.42,
+          "prob": 0.9778
+        },
+        {
+          "word": " todo",
+          "start": 319.42,
+          "end": 319.72,
+          "prob": 0.9981
+        },
+        {
+          "word": " recto.",
+          "start": 319.72,
+          "end": 320.34,
+          "prob": 0.9989
+        }
+      ]
+    },
+    {
+      "start": 331.06,
+      "end": 333.92,
+      "text": " Ella ha terminado de pintar su apartamento.",
+      "words": [
+        {
+          "word": " Ella",
+          "start": 331.06,
+          "end": 331.74,
+          "prob": 0.902
+        },
+        {
+          "word": " ha",
+          "start": 331.74,
+          "end": 331.98,
+          "prob": 0.9969
+        },
+        {
+          "word": " terminado",
+          "start": 331.98,
+          "end": 332.6,
+          "prob": 0.9998
+        },
+        {
+          "word": " de",
+          "start": 332.6,
+          "end": 332.74,
+          "prob": 0.9996
+        },
+        {
+          "word": " pintar",
+          "start": 332.74,
+          "end": 333.14,
+          "prob": 0.9991
+        },
+        {
+          "word": " su",
+          "start": 333.14,
+          "end": 333.28,
+          "prob": 0.9992
+        },
+        {
+          "word": " apartamento.",
+          "start": 333.28,
+          "end": 333.92,
+          "prob": 0.998
+        }
+      ]
+    },
+    {
+      "start": 343.76,
+      "end": 346.8,
+      "text": " Me gustaría que empezara a hacer más calor pronto.",
+      "words": [
+        {
+          "word": " Me",
+          "start": 343.76,
+          "end": 344.44,
+          "prob": 0.9832
+        },
+        {
+          "word": " gustaría",
+          "start": 344.44,
+          "end": 344.8,
+          "prob": 0.9993
+        },
+        {
+          "word": " que",
+          "start": 344.8,
+          "end": 345.18,
+          "prob": 0.9991
+        },
+        {
+          "word": " empezara",
+          "start": 345.18,
+          "end": 345.68,
+          "prob": 0.9994
+        },
+        {
+          "word": " a",
+          "start": 345.68,
+          "end": 345.8,
+          "prob": 0.9984
+        },
+        {
+          "word": " hacer",
+          "start": 345.8,
+          "end": 345.92,
+          "prob": 0.9929
+        },
+        {
+          "word": " más",
+          "start": 345.92,
+          "end": 346.12,
+          "prob": 0.997
+        },
+        {
+          "word": " calor",
+          "start": 346.12,
+          "end": 346.46,
+          "prob": 0.9995
+        },
+        {
+          "word": " pronto.",
+          "start": 346.46,
+          "end": 346.8,
+          "prob": 0.9992
+        }
+      ]
+    },
+    {
+      "start": 357.58,
+      "end": 360.6,
+      "text": " El niño al que se le murió el gato está triste.",
+      "words": [
+        {
+          "word": " El",
+          "start": 357.58,
+          "end": 358.14,
+          "prob": 0.6661
+        },
+        {
+          "word": " niño",
+          "start": 358.14,
+          "end": 358.42,
+          "prob": 0.9877
+        },
+        {
+          "word": " al",
+          "start": 358.42,
+          "end": 358.68,
+          "prob": 0.9929
+        },
+        {
+          "word": " que",
+          "start": 358.68,
+          "end": 358.78,
+          "prob": 0.9982
+        },
+        {
+          "word": " se",
+          "start": 358.78,
+          "end": 358.98,
+          "prob": 0.9974
+        },
+        {
+          "word": " le",
+          "start": 358.98,
+          "end": 359.12,
+          "prob": 0.9924
+        },
+        {
+          "word": " murió",
+          "start": 359.12,
+          "end": 359.4,
+          "prob": 0.9928
+        },
+        {
+          "word": " el",
+          "start": 359.4,
+          "end": 359.5,
+          "prob": 0.9969
+        },
+        {
+          "word": " gato",
+          "start": 359.5,
+          "end": 359.86,
+          "prob": 0.9996
+        },
+        {
+          "word": " está",
+          "start": 359.86,
+          "end": 360.2,
+          "prob": 0.972
+        },
+        {
+          "word": " triste.",
+          "start": 360.2,
+          "end": 360.6,
+          "prob": 0.9993
+        }
+      ]
+    },
+    {
+      "start": 371.9,
+      "end": 374.86,
+      "text": " Una amiga mía cuida a los niños de mi vecino.",
+      "words": [
+        {
+          "word": " Una",
+          "start": 371.9,
+          "end": 372.46,
+          "prob": 0.9904
+        },
+        {
+          "word": " amiga",
+          "start": 372.46,
+          "end": 372.78,
+          "prob": 0.999
+        },
+        {
+          "word": " mía",
+          "start": 372.78,
+          "end": 373.12,
+          "prob": 0.9894
+        },
+        {
+          "word": " cuida",
+          "start": 373.12,
+          "end": 373.58,
+          "prob": 0.9979
+        },
+        {
+          "word": " a",
+          "start": 373.58,
+          "end": 373.68,
+          "prob": 0.9925
+        },
+        {
+          "word": " los",
+          "start": 373.68,
+          "end": 373.78,
+          "prob": 0.9995
+        },
+        {
+          "word": " niños",
+          "start": 373.78,
+          "end": 374.06,
+          "prob": 0.9987
+        },
+        {
+          "word": " de",
+          "start": 374.06,
+          "end": 374.32,
+          "prob": 0.9992
+        },
+        {
+          "word": " mi",
+          "start": 374.32,
+          "end": 374.4,
+          "prob": 0.9985
+        },
+        {
+          "word": " vecino.",
+          "start": 374.4,
+          "end": 374.86,
+          "prob": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 385.82,
+      "end": 389.2,
+      "text": " El gato que era negro fue perseguido por el perro.",
+      "words": [
+        {
+          "word": " El",
+          "start": 385.82,
+          "end": 386.42,
+          "prob": 0.5547
+        },
+        {
+          "word": " gato",
+          "start": 386.42,
+          "end": 386.86,
+          "prob": 0.992
+        },
+        {
+          "word": " que",
+          "start": 386.86,
+          "end": 387.06,
+          "prob": 0.8861
+        },
+        {
+          "word": " era",
+          "start": 387.06,
+          "end": 387.26,
+          "prob": 0.9975
+        },
+        {
+          "word": " negro",
+          "start": 387.26,
+          "end": 387.56,
+          "prob": 0.9976
+        },
+        {
+          "word": " fue",
+          "start": 387.56,
+          "end": 387.82,
+          "prob": 0.9763
+        },
+        {
+          "word": " perseguido",
+          "start": 387.82,
+          "end": 388.48,
+          "prob": 0.9973
+        },
+        {
+          "word": " por",
+          "start": 388.48,
+          "end": 388.64,
+          "prob": 0.9984
+        },
+        {
+          "word": " el",
+          "start": 388.64,
+          "end": 388.78,
+          "prob": 0.9973
+        },
+        {
+          "word": " perro.",
+          "start": 388.78,
+          "end": 389.2,
+          "prob": 0.9993
+        }
+      ]
+    },
+    {
+      "start": 400.52,
+      "end": 404.3,
+      "text": " Antes de poder salir, él tiene que limpiar su cuarto.",
+      "words": [
+        {
+          "word": " Antes",
+          "start": 400.52,
+          "end": 401.12,
+          "prob": 0.959
+        },
+        {
+          "word": " de",
+          "start": 401.12,
+          "end": 401.42,
+          "prob": 0.9993
+        },
+        {
+          "word": " poder",
+          "start": 401.42,
+          "end": 401.66,
+          "prob": 0.9975
+        },
+        {
+          "word": " salir,",
+          "start": 401.66,
+          "end": 402.04,
+          "prob": 0.9987
+        },
+        {
+          "word": " él",
+          "start": 402.32,
+          "end": 402.82,
+          "prob": 0.9225
+        },
+        {
+          "word": " tiene",
+          "start": 402.82,
+          "end": 403.14,
+          "prob": 0.9988
+        },
+        {
+          "word": " que",
+          "start": 403.14,
+          "end": 403.36,
+          "prob": 0.9992
+        },
+        {
+          "word": " limpiar",
+          "start": 403.36,
+          "end": 403.8,
+          "prob": 0.9994
+        },
+        {
+          "word": " su",
+          "start": 403.8,
+          "end": 404.0,
+          "prob": 0.9988
+        },
+        {
+          "word": " cuarto.",
+          "start": 404.0,
+          "end": 404.3,
+          "prob": 0.9986
+        }
+      ]
+    },
+    {
+      "start": 416.62,
+      "end": 419.98,
+      "text": " La cantidad de personas que fuman ha disminuido.",
+      "words": [
+        {
+          "word": " La",
+          "start": 416.62,
+          "end": 417.26,
+          "prob": 0.4397
+        },
+        {
+          "word": " cantidad",
+          "start": 417.26,
+          "end": 417.52,
+          "prob": 0.9863
+        },
+        {
+          "word": " de",
+          "start": 417.52,
+          "end": 417.92,
+          "prob": 0.9965
+        },
+        {
+          "word": " personas",
+          "start": 417.92,
+          "end": 418.26,
+          "prob": 0.9924
+        },
+        {
+          "word": " que",
+          "start": 418.26,
+          "end": 418.64,
+          "prob": 0.9964
+        },
+        {
+          "word": " fuman",
+          "start": 418.64,
+          "end": 418.96,
+          "prob": 0.9896
+        },
+        {
+          "word": " ha",
+          "start": 418.96,
+          "end": 419.26,
+          "prob": 0.9616
+        },
+        {
+          "word": " disminuido.",
+          "start": 419.26,
+          "end": 419.98,
+          "prob": 0.9938
+        }
+      ]
+    },
+    {
+      "start": 432.06,
+      "end": 435.48,
+      "text": " Después de llegar a casa del trabajo, tomé la cena.",
+      "words": [
+        {
+          "word": " Después",
+          "start": 432.06,
+          "end": 432.7,
+          "prob": 0.9588
+        },
+        {
+          "word": " de",
+          "start": 432.7,
+          "end": 433.2,
+          "prob": 0.9965
+        },
+        {
+          "word": " llegar",
+          "start": 433.2,
+          "end": 433.46,
+          "prob": 0.9921
+        },
+        {
+          "word": " a",
+          "start": 433.46,
+          "end": 433.66,
+          "prob": 0.9914
+        },
+        {
+          "word": " casa",
+          "start": 433.66,
+          "end": 433.92,
+          "prob": 0.9888
+        },
+        {
+          "word": " del",
+          "start": 433.92,
+          "end": 434.12,
+          "prob": 0.9905
+        },
+        {
+          "word": " trabajo,",
+          "start": 434.12,
+          "end": 434.48,
+          "prob": 0.9978
+        },
+        {
+          "word": " tomé",
+          "start": 434.72,
+          "end": 435.14,
+          "prob": 0.9939
+        },
+        {
+          "word": " la",
+          "start": 435.14,
+          "end": 435.26,
+          "prob": 0.998
+        },
+        {
+          "word": " cena.",
+          "start": 435.26,
+          "end": 435.48,
+          "prob": 0.9988
+        }
+      ]
+    },
+    {
+      "start": 447.66,
+      "end": 450.86,
+      "text": " The thief who caught the police was famous.",
+      "words": [
+        {
+          "word": " The",
+          "start": 447.66,
+          "end": 448.34,
+          "prob": 0.423
+        },
+        {
+          "word": " thief",
+          "start": 448.34,
+          "end": 448.58,
+          "prob": 0.9372
+        },
+        {
+          "word": " who",
+          "start": 448.58,
+          "end": 448.94,
+          "prob": 0.6662
+        },
+        {
+          "word": " caught",
+          "start": 448.94,
+          "end": 449.14,
+          "prob": 0.5712
+        },
+        {
+          "word": " the",
+          "start": 449.14,
+          "end": 449.56,
+          "prob": 0.9889
+        },
+        {
+          "word": " police",
+          "start": 449.56,
+          "end": 449.88,
+          "prob": 0.8602
+        },
+        {
+          "word": " was",
+          "start": 449.88,
+          "end": 450.28,
+          "prob": 0.9347
+        },
+        {
+          "word": " famous.",
+          "start": 450.28,
+          "end": 450.86,
+          "prob": 0.9713
+        }
+      ]
+    },
+    {
+      "start": 463.26,
+      "end": 466.36,
+      "text": " I asked a friend to help me with the task.",
+      "words": [
+        {
+          "word": " I",
+          "start": 463.08,
+          "end": 463.42,
+          "prob": 0.9222
+        },
+        {
+          "word": " asked",
+          "start": 463.42,
+          "end": 464.1,
+          "prob": 0.9917
+        },
+        {
+          "word": " a",
+          "start": 464.1,
+          "end": 464.32,
+          "prob": 0.9284
+        },
+        {
+          "word": " friend",
+          "start": 464.32,
+          "end": 464.74,
+          "prob": 0.9968
+        },
+        {
+          "word": " to",
+          "start": 464.74,
+          "end": 465.04,
+          "prob": 0.869
+        },
+        {
+          "word": " help",
+          "start": 465.04,
+          "end": 465.52,
+          "prob": 0.9845
+        },
+        {
+          "word": " me",
+          "start": 465.52,
+          "end": 465.8,
+          "prob": 0.9662
+        },
+        {
+          "word": " with",
+          "start": 465.8,
+          "end": 465.94,
+          "prob": 0.9845
+        },
+        {
+          "word": " the",
+          "start": 465.94,
+          "end": 466.12,
+          "prob": 0.8743
+        },
+        {
+          "word": " task.",
+          "start": 466.12,
+          "end": 466.36,
+          "prob": 0.8205
+        }
+      ]
+    },
+    {
+      "start": 478.82,
+      "end": 482.02,
+      "text": " The exam wasn't as difficult as they told me.",
+      "words": [
+        {
+          "word": " The",
+          "start": 478.82,
+          "end": 479.3,
+          "prob": 0.1839
+        },
+        {
+          "word": " exam",
+          "start": 479.3,
+          "end": 479.56,
+          "prob": 0.5638
+        },
+        {
+          "word": " wasn't",
+          "start": 479.56,
+          "end": 480.22,
+          "prob": 0.7595
+        },
+        {
+          "word": " as",
+          "start": 480.22,
+          "end": 480.34,
+          "prob": 0.8892
+        },
+        {
+          "word": " difficult",
+          "start": 480.34,
+          "end": 480.7,
+          "prob": 0.6353
+        },
+        {
+          "word": " as",
+          "start": 480.7,
+          "end": 481.08,
+          "prob": 0.9898
+        },
+        {
+          "word": " they",
+          "start": 481.08,
+          "end": 481.44,
+          "prob": 0.5799
+        },
+        {
+          "word": " told",
+          "start": 481.44,
+          "end": 481.74,
+          "prob": 0.4754
+        },
+        {
+          "word": " me.",
+          "start": 481.74,
+          "end": 482.02,
+          "prob": 0.9835
+        }
+      ]
+    },
+    {
+      "start": 494.44,
+      "end": 497.42,
+      "text": " Would you be so kind as to give me the book that is on the table?",
+      "words": [
+        {
+          "word": " Would",
+          "start": 494.44,
+          "end": 494.92,
+          "prob": 0.8714
+        },
+        {
+          "word": " you",
+          "start": 494.92,
+          "end": 495.1,
+          "prob": 0.9795
+        },
+        {
+          "word": " be",
+          "start": 495.1,
+          "end": 495.18,
+          "prob": 0.925
+        },
+        {
+          "word": " so",
+          "start": 495.18,
+          "end": 495.28,
+          "prob": 0.8691
+        },
+        {
+          "word": " kind",
+          "start": 495.28,
+          "end": 495.58,
+          "prob": 0.9345
+        },
+        {
+          "word": " as",
+          "start": 495.58,
+          "end": 495.76,
+          "prob": 0.6114
+        },
+        {
+          "word": " to",
+          "start": 495.76,
+          "end": 495.84,
+          "prob": 0.9961
+        },
+        {
+          "word": " give",
+          "start": 495.84,
+          "end": 495.98,
+          "prob": 0.9028
+        },
+        {
+          "word": " me",
+          "start": 495.98,
+          "end": 496.1,
+          "prob": 0.9933
+        },
+        {
+          "word": " the",
+          "start": 496.1,
+          "end": 496.2,
+          "prob": 0.9629
+        },
+        {
+          "word": " book",
+          "start": 496.2,
+          "end": 496.44,
+          "prob": 0.9759
+        },
+        {
+          "word": " that",
+          "start": 496.44,
+          "end": 496.68,
+          "prob": 0.6491
+        },
+        {
+          "word": " is",
+          "start": 496.68,
+          "end": 496.76,
+          "prob": 0.5252
+        },
+        {
+          "word": " on",
+          "start": 496.76,
+          "end": 497.04,
+          "prob": 0.8572
+        },
+        {
+          "word": " the",
+          "start": 497.04,
+          "end": 497.14,
+          "prob": 0.9721
+        },
+        {
+          "word": " table?",
+          "start": 497.14,
+          "end": 497.42,
+          "prob": 0.9372
+        }
+      ]
+    },
+    {
+      "start": 509.64,
+      "end": 512.52,
+      "text": " Hay mucha gente que no toma nada para el desayuno.",
+      "words": [
+        {
+          "word": " Hay",
+          "start": 509.64,
+          "end": 510.12,
+          "prob": 0.3563
+        },
+        {
+          "word": " mucha",
+          "start": 510.12,
+          "end": 510.38,
+          "prob": 0.9982
+        },
+        {
+          "word": " gente",
+          "start": 510.38,
+          "end": 510.72,
+          "prob": 0.9988
+        },
+        {
+          "word": " que",
+          "start": 510.72,
+          "end": 511.0,
+          "prob": 0.9975
+        },
+        {
+          "word": " no",
+          "start": 511.0,
+          "end": 511.16,
+          "prob": 0.9987
+        },
+        {
+          "word": " toma",
+          "start": 511.16,
+          "end": 511.38,
+          "prob": 0.9953
+        },
+        {
+          "word": " nada",
+          "start": 511.38,
+          "end": 511.6,
+          "prob": 0.9965
+        },
+        {
+          "word": " para",
+          "start": 511.6,
+          "end": 511.86,
+          "prob": 0.997
+        },
+        {
+          "word": " el",
+          "start": 511.86,
+          "end": 512.0,
+          "prob": 0.9979
+        },
+        {
+          "word": " desayuno.",
+          "start": 512.0,
+          "end": 512.52,
+          "prob": 0.9989
+        }
+      ]
+    },
+    {
+      "start": 524.14,
+      "end": 527.0,
+      "text": " This is the end of the repetition task. Thank you.",
+      "words": [
+        {
+          "word": " This",
+          "start": 524.14,
+          "end": 524.62,
+          "prob": 0.9295
+        },
+        {
+          "word": " is",
+          "start": 524.62,
+          "end": 524.8,
+          "prob": 0.9987
+        },
+        {
+          "word": " the",
+          "start": 524.8,
+          "end": 524.94,
+          "prob": 0.9994
+        },
+        {
+          "word": " end",
+          "start": 524.94,
+          "end": 525.12,
+          "prob": 0.9991
+        },
+        {
+          "word": " of",
+          "start": 525.12,
+          "end": 525.22,
+          "prob": 0.9991
+        },
+        {
+          "word": " the",
+          "start": 525.22,
+          "end": 525.32,
+          "prob": 0.9975
+        },
+        {
+          "word": " repetition",
+          "start": 525.32,
+          "end": 525.68,
+          "prob": 0.9862
+        },
+        {
+          "word": " task.",
+          "start": 525.68,
+          "end": 526.08,
+          "prob": 0.9559
+        },
+        {
+          "word": " Thank",
+          "start": 526.32,
+          "end": 526.8,
+          "prob": 0.9983
+        },
+        {
+          "word": " you.",
+          "start": 526.8,
+          "end": 527.0,
+          "prob": 0.999
+        }
+      ]
+    }
+  ]
+}

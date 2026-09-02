@@ -1,0 +1,40 @@
+# Spanish EIT Automated Scoring — Research & Experimentation Dependencies
+# Full install for notebook experiments and model development
+# Installation: pip install -r requirements_research.txt
+# Includes: BETO, BERTScore, LLM arbitration, spaCy, visualization
+# Python: 3.10+
+
+# Core scoring (production)
+pandas==2.3.3
+scikit-learn==1.8.0
+openpyxl==3.1.5
+nltk==3.9.3
+jiwer==4.0.0
+python-Levenshtein==0.27.3
+silabeador==1.2.3
+
+# NLP & embeddings
+transformers==4.32.0
+torch==2.0.1
+sentence-transformers==3.0.1
+bert-score==0.3.13
+spacy==3.8.14
+
+# Ordinal/specialized ML
+mord==0.7
+scipy==1.17.0
+
+# LLM arbitration
+google-generativeai==0.3.3
+openai==0.27.8
+
+# Visualization & analysis
+matplotlib==3.10.8
+seaborn==0.13.2
+jupyter==1.0.0
+ipykernel==7.1.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.5
+tqdm==4.67.1

@@ -1,0 +1,13 @@
+# Spanish EIT Automated Scoring — Production Dependencies
+# Minimal install for score_responses.py (scoring new data)
+# Installation: pip install -r requirements_production.txt
+# Size: ~50 MB, no GPU/internet required
+# Python: 3.8+
+
+pandas==2.3.3
+scikit-learn==1.8.0
+openpyxl==3.1.5
+nltk==3.9.3
+jiwer==4.0.0
+python-Levenshtein==0.27.3
+silabeador==1.2.3

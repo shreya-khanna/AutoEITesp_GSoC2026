@@ -8,7 +8,7 @@
 
 **Mentors:** Mandy Faretta-Stutenberg
 
-**Program dates:** Coding period May 25 – August 16, 2026
+**Program dates:** Coding period May 25 – August 24, 2026
 
 **Repository:** [github.com/humanai-foundation/AutoEIT](https://github.com/humanai-foundation/AutoEIT) — this project lives in [`AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk/`](https://github.com/humanai-foundation/AutoEIT/tree/main/AutoEIT_Audio-to-text_transcription_for_second_additional_language_learner_data_Mykyta_Hrebeniuk)
 
